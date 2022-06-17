@@ -1,0 +1,45 @@
+.principal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding: 0;
+    margin: 0;
+    background-color: wheat;
+    
+    
+
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 20%;
+    border: none;
+    background-color: floralwhite;
+    border-radius: 20px;
+   
+}
+
+h1{
+    text-align: center;
+    color:  floralwhite;
+  
+}
+
+h3 {
+    font-size: 30px;
+    color: floralwhite;
+}
+
+h2 {
+    font-size: 30px;
+    color: floralwhite;
+}
+
+.listagem {
+    font-family: Arial, Helvetica, sans-serif;
+    color: mediumspringgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+
+}
